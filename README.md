@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thenitesh143
+- 👋 Hi, I’m Nitesh Chowdhary
 - 👀 I’m interested in open source contribution and remote jobs. 
 - 🌱 I’m currently learning Web Development, Java, DSA, Python..
 - 💞️ I’m looking to collaborate on beginner friendly projects
